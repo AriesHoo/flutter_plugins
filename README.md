@@ -13,6 +13,7 @@
 | mobpush_plugin   | [官网](https://www.mob.com/wiki/detailed/?wiki=MobPushForFlutterfenlei&id=136) [Pub](https://pub.dev/packages/mobpush_plugin) [GitHub](https://github.com/MobClub/MobPush-for-Flutter)   |MobTech官方开发维护: Android支持厂商通道, 推送到达率还可以,可能由于免费原因共享推送带宽延时稍微有点高；***关键免费*** 而且该公司其它产品大多都是支持Flutter的 |
 |jpush_flutter|[官网](http://docs.jiguang.cn/jpush/client/client_plugins/) [Pub](https://pub.flutter-io.cn/packages/jpush_flutter) [GitHub](https://github.com/jpush/jpush-flutter-plugin)|极光官方维护:Android 支持厂商通道 到达率很高，厂商通道需要联系商务，顾名思义就是要钱|
 | getuiflut |[官网](http://docs.getui.com/getui/more/plugin/) [Pub](https://pub.flutter-io.cn/packages/getuiflut) [GitHub](https://github.com/GetuiLaboratory/getui-flutter-plugin)| 个推官方开发维护-***提供8种非Native平台插件***
+| tpns_flutter_plugin |[官网](https://cloud.tencent.com/document/product/548/41515) [腾讯工蜂](https://git.code.tencent.com/tpns/XG-Flutter-Plugin)|腾讯信鸽(tpns)官方开发维护
 
 
 ### 地图部分
