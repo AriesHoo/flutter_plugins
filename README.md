@@ -63,6 +63,7 @@
 | janalytics   ![](https://img.shields.io/pub/v/janalytics.svg)| [官网](https://docs.jiguang.cn//janalytics/client/client_plugins/) [Pub](https://pub.flutter-io.cn/packages/janalytics) [GitHub](https://github.com/jpush/janalytics-flutter-plugin)   | 极光统计官方开发维护-<font color=red>***提供5种非Native平台插件***</font>    |
 |||
 | UMCAnalytics   | [官网](https://developer.umeng.com/docs/119267/detail/174923)    | 友盟官方开发维护-<font color=red>***仅提供Flutter平台插件***</font>     |
+|flutter_growingio_track ![](https://img.shields.io/pub/v/flutter_growingio_track.svg)|[官网](https://docs.growingio.com/docs/developer-manual/sdkintegrated/otherframe-sdk/flutter-sdk) [Pub](https://pub.dev/packages/flutter_growingio_track) [GitHub](https://github.com/growingio/flutter-growingio-track)| GrowingIO平台官方开发维护-<font color=red>***提供6种非Native平台插件***</font> 
 
 ### 认证部分
 
@@ -77,4 +78,4 @@
 | 库名  | 链接  | 简介  |
 |:----------|:----------|:----------|
 | fluwx   ![](https://img.shields.io/pub/v/fluwx.svg)  | [Pub](https://pub.flutter-io.cn/packages/fluwx)  [Github](https://github.com/OpenFlutter/fluwx)  | 三方开发维护-包含微信分享(含小程序)、登录、支付功能 如果想单独使用分享登录、支付也有对应库    |
-| flutter_alipay    ![](https://img.shields.io/pub/v/flutter_alipay.svg)   | [Pub](https://pub.flutter-io.cn/packages/flutter_alipay)  [Github](https://github.com/best-flutter/flutter_alipay)  | 三方开发维护   |
+| flutter_alipay    ![](https://img.shields.io/pub/v/flutter_alipay.svg)   | [Pub](https://pub.flutter-io.cn/packages/flutter_alipay)  [Github](https://github.com/best-flutter/flutter_alipay)  | 三方开发维护的支付宝支付插件   |
